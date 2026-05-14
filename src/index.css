@@ -1,0 +1,267 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:          #1a1814;
+  --surface:     #232019;
+  --surface-alt: #2e2b22;
+  --ink:         #f5f1e8;
+  --muted:       #8a8576;
+  --accent:      #1ddf6f;
+  --warn:        #e85d3a;
+  --border:      #5a5648;
+
+  --font-display: 'Caveat', cursive;
+  --font-body:    'Patrick Hand', sans-serif;
+  --font-mono:    'JetBrains Mono', monospace;
+}
+
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 16px;
+  min-height: 100vh;
+}
+
+button { cursor: pointer; border: none; font-family: var(--font-body); background: none; }
+
+/* ── Layout helpers ─────────────────────────────── */
+.col  { display: flex; flex-direction: column; }
+.row  { display: flex; flex-direction: row; }
+.center { align-items: center; justify-content: center; }
+.between { justify-content: space-between; }
+.grow { flex: 1 1 0; }
+.tac  { text-align: center; }
+.mono { font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.5px; text-transform: uppercase; }
+.muted { color: var(--muted); }
+
+/* ── Sketchy primitives (from design handoff) ───── */
+
+/* Card with ink offset shadow */
+.sbox {
+  border: 2px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface);
+  padding: 10px 12px;
+}
+.sbox.thick  { border-width: 2.5px; box-shadow: 3px 3px 0 var(--ink); }
+.sbox.accent { border-color: var(--accent); box-shadow: 3px 3px 0 var(--accent); }
+.sbox.dashed { border-style: dashed; }
+
+/* Pill button */
+.sbtn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  border: 2px solid var(--ink);
+  background: var(--surface);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-family: var(--font-body);
+  font-size: 16px;
+  color: var(--ink);
+  box-shadow: 2px 2px 0 var(--ink);
+}
+.sbtn.primary { background: var(--accent); color: var(--bg); }
+.sbtn.ghost   { background: transparent; box-shadow: none; }
+.sbtn.block   { width: 100%; padding: 12px 16px; font-size: 18px; }
+
+/* Chip */
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 10px;
+  background: var(--surface);
+  font-family: var(--font-body);
+  font-size: 14px;
+}
+.chip.accent { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
+/* Tag */
+.tag {
+  display: inline-flex; align-items: center;
+  border: 1.5px solid var(--border);
+  border-radius: 999px;
+  padding: 2px 8px;
+  background: var(--surface);
+  font-family: var(--font-mono);
+  font-size: 9px; text-transform: uppercase; letter-spacing: 0.3px;
+  color: var(--ink);
+}
+.tag.accent { background: var(--accent); color: var(--bg); border-color: var(--accent); }
+
+/* Flag tile */
+.flag {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px;
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface-alt);
+  font-size: 22px;
+  flex-shrink: 0;
+}
+
+/* Accent dot */
+.ad {
+  display: inline-block; width: 10px; height: 10px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 1.5px solid var(--border);
+  flex-shrink: 0;
+}
+
+/* Mystery card */
+.mystery {
+  border: 2.5px solid var(--ink);
+  border-radius: 18px;
+  background: var(--surface);
+  position: relative;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 3px 3px 0 var(--border);
+}
+.mystery .qmark {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 96px;
+  color: var(--ink);
+  line-height: 1;
+}
+.mystery .corner {
+  position: absolute;
+  font-family: var(--font-mono);
+  font-size: 9px; color: var(--muted);
+  text-transform: uppercase;
+}
+.mystery .corner.tl { top: 10px; left: 12px; }
+.mystery .corner.br { bottom: 10px; right: 12px; transform: rotate(180deg); }
+
+/* Timeline card (small, on the year ruler) */
+.tcard {
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface);
+  padding: 6px 7px;
+  display: flex; flex-direction: column; justify-content: space-between;
+}
+.tcard .yr  { font-family: var(--font-display); font-weight: 700; font-size: 22px; line-height: 1; color: var(--accent); }
+.tcard .art { font-size: 10px; color: var(--muted); line-height: 1.1; }
+.tcard .ttl { font-size: 11px; font-weight: bold; line-height: 1.1; }
+
+/* Vinyl record (CSS only) */
+.vinyl {
+  border-radius: 50%;
+  position: relative;
+  background: radial-gradient(
+    circle,
+    var(--accent)    0 8%,
+    var(--surface)   9% 18%,
+    var(--border)    19% 22%,
+    var(--surface)   23% 30%,
+    var(--border)    31% 34%,
+    var(--surface)   35% 42%,
+    var(--border)    43% 46%,
+    var(--surface)   47% 54%,
+    var(--border)    55% 58%,
+    var(--surface)   59%
+  );
+  border: 2px solid var(--border);
+}
+
+/* Pulse ring (play button) */
+.pulse-ring {
+  position: relative;
+  border: 2px solid var(--ink);
+  background: var(--accent);
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 2px 2px 0 var(--border);
+  color: var(--bg);
+}
+.pulse-ring.playing::before,
+.pulse-ring.playing::after {
+  content: '';
+  position: absolute; inset: -8px;
+  border: 2px dashed var(--accent);
+  border-radius: 50%;
+  opacity: 0.35;
+  animation: pulse-out 2s ease-in-out infinite;
+}
+.pulse-ring.playing::after { inset: -16px; opacity: 0.18; animation-delay: 0.3s; }
+
+@keyframes pulse-out {
+  0%, 100% { transform: scale(1); opacity: 0.35; }
+  50% { transform: scale(1.05); opacity: 0.15; }
+}
+
+/* Waveform */
+.wave { display: flex; align-items: center; gap: 3px; height: 36px; }
+.wave span { display: block; width: 3px; border-radius: 2px; background: var(--ink); }
+.wave.playing span { animation: wave-bounce 0.8s ease-in-out infinite alternate; }
+.wave.playing span:nth-child(2n)   { animation-delay: 0.1s; }
+.wave.playing span:nth-child(3n)   { animation-delay: 0.2s; }
+.wave.playing span:nth-child(4n)   { animation-delay: 0.3s; }
+
+@keyframes wave-bounce {
+  from { transform: scaleY(0.3); }
+  to   { transform: scaleY(1); }
+}
+
+/* Year ruler */
+.ruler {
+  position: relative;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: 13px;
+  user-select: none;
+  touch-action: none;
+}
+.ruler .tick {
+  position: absolute; left: -4px; right: -4px;
+  height: 1.5px; background: var(--border);
+}
+.ruler .tick-label {
+  position: absolute; left: calc(100% + 6px);
+  font-family: var(--font-mono); font-size: 9px;
+  color: var(--muted); white-space: nowrap;
+  transform: translateY(-50%);
+}
+
+/* Gap highlight on ruler */
+.ruler-gap {
+  position: absolute; left: -3px; right: -3px;
+  border: 2px dashed var(--accent);
+  border-radius: 6px;
+  background: color-mix(in oklch, var(--accent) 15%, transparent);
+  pointer-events: none;
+}
+
+/* Squiggle divider */
+.squiggle {
+  height: 6px;
+  background: radial-gradient(circle at 4px 3px, var(--border) 1px, transparent 1.5px) 0 0 / 8px 6px;
+}
+
+/* Result splash backgrounds */
+.splash-correct { background: color-mix(in oklch, var(--accent) 20%, var(--bg)); }
+.splash-wrong   { background: color-mix(in oklch, var(--warn)   18%, var(--bg)); }
+
+/* Slight rotations for hand-placed feel */
+.rot-l  { transform: rotate(-1.2deg); }
+.rot-r  { transform: rotate(1.2deg); }
+
+/* Animations */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes slam {
+  0%   { opacity: 0; transform: scale(0.5); }
+  70%  { transform: scale(1.06); }
+  100% { opacity: 1; transform: scale(1); }
+}
+@keyframes vinylSpin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+.fade-up { animation: fadeUp 0.35s ease forwards; }
+.slam    { animation: slam 0.45s cubic-bezier(.17,.67,.35,1.2) forwards; }
