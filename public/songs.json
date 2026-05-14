@@ -1,70 +1,196 @@
 [
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Barry White",
-    "title": "You're The First, The Last, My Everything",
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Thelma Houston",
+    "title": "Don't Leave Me This Way",
+    "year": 1976,
+    "spotifyId": "4Af8yzidDPc520TFd4TmkE",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f393bb5c524b510b14af8bf24908c0b47357f343"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Juice Leskinen",
+    "title": "Marilyn",
     "year": 1974,
-    "spotifyId": "5dXJ1SoksFkgdx3yxIoYNO",
-    "previewUrl": "https://p.scdn.co/mp3-preview/d40eead0c2d536dd10574dc4d4ac6d1014e82f4f"
+    "spotifyId": "7teMwabPGrZwzqCEfdxVYx",
+    "previewUrl": "https://p.scdn.co/mp3-preview/30244df60edd5b498b6376484b4eef41af2b1fab"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Cindy Lauper",
-    "title": "True Colors",
-    "year": 1986,
-    "spotifyId": "2A6yzRGMgSQCUapR2ptm6A",
-    "previewUrl": "https://p.scdn.co/mp3-preview/0f2bc57763e36be71fa3661c9e11a9b2e4360000"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Yannick Noah",
+    "title": "Saga Africa (ambiance secousse)",
+    "year": 1991,
+    "spotifyId": "6ouQVLPPEplvVA62uXh2ar",
+    "previewUrl": "https://p.scdn.co/mp3-preview/07c2470bc5a9132eac80bd35eafa7ae7c83f54b5"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Meat Loaf",
-    "title": "Paradise By The Dashboard Light",
-    "year": 1978,
-    "spotifyId": "2g7gviEeJr6pyxO7G35EWQ",
-    "previewUrl": "https://p.scdn.co/mp3-preview/e3c8749ba9a29ec881b8da707f6e7d3242b0b15f"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Snoop Dogg",
+    "title": "Drop It Like It's Hot",
+    "year": 2004,
+    "spotifyId": "2NBQmPrOEEjA8VbeWOQGxO",
+    "previewUrl": "https://p.scdn.co/mp3-preview/be634674f46a6afdd90e59d7522196295eafc956"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Peter Koelewijn en Zijn Rockets",
-    "title": "Kom van dat dak af",
-    "year": 1960,
-    "spotifyId": "4I07xdkqgw91HqlP4t5h9B",
-    "previewUrl": "https://p.scdn.co/mp3-preview/b5b95bad4c2085f72190aefe0891a09ba20029f6"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Marion Rung",
+    "title": "Tipi-tii",
+    "year": 1962,
+    "spotifyId": "5VtaSzYEoPXJ28Qpt4ftXv",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d9c28ebe4dfbd6604881b2d8da3c782fe25109d4"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Nielson",
-    "title": "Sexy Als Ik Dans",
-    "year": 2014,
-    "spotifyId": "1DivBCYuEIHaeD3evYJE16",
-    "previewUrl": "https://p.scdn.co/mp3-preview/e38a3fd305fd228f6b395873b8b8edab9ca54fec"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Juanes",
+    "title": "La Camisa Negra",
+    "year": 2004,
+    "spotifyId": "2EM9zpAc7PVeoAydmbfVIL",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5a6e6bd73d608658a0c7986b0b71a7b78f0c7c70"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Taio Cruz",
-    "title": "Hangover",
-    "year": 2011,
-    "spotifyId": "5pmL3RzOy3IvGFaSDi4hZL",
-    "previewUrl": "https://p.scdn.co/mp3-preview/9b699a15573c15c24c709485374a5cb6b7dab41b"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Bomfunk MC's",
+    "title": "Freestyler",
+    "year": 1999,
+    "spotifyId": "4eZO97RGFo7IN6gm24Nv0S",
+    "previewUrl": "https://p.scdn.co/mp3-preview/90be9941873e845054e2a2175b6e192bf86cbe17"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Daft Punk",
-    "title": "One More Time",
-    "year": 2000,
-    "spotifyId": "0DiWol3AO6WpXZgp0goxAV",
-    "previewUrl": "https://p.scdn.co/mp3-preview/67a14210e33bf6d87d92faaed08ddf353d6b985f"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Suprême NTM",
+    "title": "Laisse pas traîner ton fils",
+    "year": 1998,
+    "spotifyId": "19wTIVLYwubMX8XZppB6lH",
+    "previewUrl": "https://p.scdn.co/mp3-preview/19f297c564e36d615920d7ba8a654d8a9380a6b5"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Soprano",
+    "title": "En feu",
+    "year": 2016,
+    "spotifyId": "6FxIFhVlOvI1wcXWe8LKei",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7e00f9b1b55db9c5220c77eaa6426c7ba7e2ac7d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Diana Ross",
+    "title": "Upside Down",
+    "year": 1980,
+    "spotifyId": "3pbtBomO4Zt5gGiqsYeiBH",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6facaf561c52c3b088079539ba1e24e87c15f16a"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Rolling Stones",
+    "title": "Start Me Up",
+    "year": 1981,
+    "spotifyId": "7HKez549fwJQDzx3zLjHKC",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6b6f57d8c70b98d05ac1566144506874ef67ee6f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "MGMT",
+    "title": "Kids",
+    "year": 2007,
+    "spotifyId": "1jJci4qxiYcOHhQR247rEU",
+    "previewUrl": "https://p.scdn.co/mp3-preview/efb065069d22384206b0fc703c6f99734d33411d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Eric Prydz",
+    "title": "Call On Me",
+    "year": 2004,
+    "spotifyId": "1xNcBAoUw8Hz6LqK2jt4Ff",
+    "previewUrl": "https://p.scdn.co/mp3-preview/31bc0a16df83fa78aa422068e79d2aa960ac3249"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Nightwish",
+    "title": "Nemo",
+    "year": 2004,
+    "spotifyId": "1RNwniZkJqdw9LMkkyynjx",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1d46a2b1d7640d876794a2b191df30bfeb7dee43"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Chuck Berry",
+    "title": "Johnny B. Goode",
+    "year": 1958,
+    "spotifyId": "2QfiRTz5Yc8DdShCxG1tB2",
+    "previewUrl": "https://p.scdn.co/mp3-preview/214ca11106cbcdfe07ccd2d839c67c9b8949a5e2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Zen Cafe",
+    "title": "Todella kaunis",
+    "year": 1998,
+    "spotifyId": "17v1ICGy3aGJC3C02Uz2ZQ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/045089ae355c91d7b9e2c944b6d2a9a2e74cb335"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "David Bowie",
+    "title": "Life on Mars?",
+    "year": 1973,
+    "spotifyId": "3ZE3wv8V3w2T2f7nOCjV0N",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2f790302db8b1fc1138a5570fcc169ac7b4a0aab"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Joe Dassin",
+    "title": "Les Champs-Elysées",
+    "year": 1969,
+    "spotifyId": "4VWbPQUPvLes814r6T11Jz",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a9cdc351f92375dafdbb16295935a7c9f2281b86"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Five",
+    "title": "Everybody Get Up - Radio Edit",
+    "year": 1998,
+    "spotifyId": "0WGn8xhpPumX73lECUY5Yo",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d423e06c7baa233f78353bed27c99f6d9e266406"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dean Lewis",
+    "title": "Be Alright",
+    "year": 2018,
+    "spotifyId": "3EPXxR3ImUwfayaurPi3cm",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7f0c1f017ab25877db81815cc0c9681bf1673acc"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Survivor",
+    "title": "Eye of the Tiger",
+    "year": 1982,
+    "spotifyId": "2KH16WveTQWT6KOG9Rg6e2",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ae5fdf6639eeb270ed9732750b65a3656b807154"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
     "artist": "Gipsy Kings",
     "title": "Volare (Nel Blu Di Pinto Di Blu)",
     "year": 1989,
@@ -72,21 +198,1488 @@
     "previewUrl": "https://p.scdn.co/mp3-preview/fdeb36ea7a57e3bca57b3f7d05402e0d67f4d9bd"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
-    "artist": "Kaoma",
-    "title": "Lambada",
-    "year": 1989,
-    "spotifyId": "6xepovPqjvrkEw9Y5AMmTm",
-    "previewUrl": "https://p.scdn.co/mp3-preview/2675901e5b975ebcf43f6bda1a4ec2ce1679d3cb"
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Irwin Goodman",
+    "title": "Rentun ruusu",
+    "year": 1988,
+    "spotifyId": "4ieWnZxkolHTJcintQuCj5",
+    "previewUrl": "https://p.scdn.co/mp3-preview/56a4ca14629ea69a24332c80584c709d774aa213"
   },
   {
-    "playlist": "Netherlands",
-    "file": "hitster-nl.csv",
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Alain Bashung",
+    "title": "Osez Joséphine",
+    "year": 1991,
+    "spotifyId": "3XJG4svqKswsr2ixWNgjg1",
+    "previewUrl": "https://p.scdn.co/mp3-preview/15dc98ef37938ed4df9a64402128de9db277e697"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Champs",
+    "title": "Tequila",
+    "year": 1958,
+    "spotifyId": "5gJKsGij5oGt5H5RSFYXPa",
+    "previewUrl": "https://p.scdn.co/mp3-preview/085342e6507ab9202f6b51385e89efd8361e29d3"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony",
+    "year": 1997,
+    "spotifyId": "0Dmao2oWlAZzIBX2Q1B5AH",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0645f82269a1b9e3b83bc9352c37769a8ee35218"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "James",
+    "title": "Laid",
+    "year": 1993,
+    "spotifyId": "2CdS3DRqWR5LAhy4hM5X9W",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c0e77dd735e3b48db27889db8e71d192509adeb7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Genesis",
+    "title": "Invisible Touch",
+    "year": 1986,
+    "spotifyId": "0xpBr84T3FTm9j4D1MdPtk",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d35083ea94ad8078827fa465ec445cc46236ae07"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Yves Montand",
+    "title": "Moi, je m'en fous",
+    "year": 1952,
+    "spotifyId": "2sIysPOzPzM95TidgUimn3",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f3f79da9d5284bf4f513b47c0765c3c7ab1150a7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Portion Boys",
+    "title": "Vauhti kiihtyy (feat. Matti ja Teppo)",
+    "year": 2021,
+    "spotifyId": "4N84bVnNycTXiuoKZFEXrD",
+    "previewUrl": "https://p.scdn.co/mp3-preview/025201c64a4136122f1a15efc6ceba4a9ec67e9f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Rolling Stones",
+    "title": "(I Can't Get No) Satisfaction - Mono Version",
+    "year": 1965,
+    "spotifyId": "2PzU4IB8Dr6mxV3lHuaG34",
+    "previewUrl": "https://p.scdn.co/mp3-preview/22782e4be2eb4daa12edd8882a894ffda3601b43"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Elton John",
+    "title": "Cold Heart - PNAU Remix",
+    "year": 2021,
+    "spotifyId": "6zSpb8dQRaw0M1dK8PBwQz",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2b3e7aadb75891a4ceccb69d54d60d0fb5178500"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Justice",
+    "title": "D.A.N.C.E",
+    "year": 2007,
+    "spotifyId": "33yAEqzKXexYM3WlOYtTfQ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0412ef6b21192bc79fc1fb3389d8c95172e2c2bf"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Indochine",
+    "title": "L'aventurier",
+    "year": 1982,
+    "spotifyId": "2UC5XnHA1Wn9FjQmbjNca9",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b7d4161992a52362b36ba0134f5e681ae8a0712c"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Junior Senior",
+    "title": "Move Your Feet",
+    "year": 2002,
+    "spotifyId": "4DX82Vc8qAH4jJPvKxvwg6",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d2b6f4c1711d2984ef20ac39a244f947c671b6b2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Buggles",
+    "title": "Video Killed The Radio Star - Single Version",
+    "year": 1979,
+    "spotifyId": "7nm8w9dMwTjlWDosdnxBSn",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e0a37a960d753c63e276eff2b8acc4139314c9b6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Beatles",
+    "title": "Get Back",
+    "year": 1969,
+    "spotifyId": "7vubCYwMND42wTDf2ULHeZ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/adfbd2eea726e4b27ca6d794bfad2d4c2be834d7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Christophe",
+    "title": "Les mots bleus",
+    "year": 1974,
+    "spotifyId": "1rCd7kvnOBmT4dYHwHychc",
+    "previewUrl": "https://p.scdn.co/mp3-preview/8a807604eee623bcee29919e90f4c720691ea244"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Shaggy",
+    "title": "It Wasn't Me",
+    "year": 2000,
+    "spotifyId": "3WkibOpDF7cQ5xntM1epyf",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a0b006f31a20deb4e965c3a2092a975067064c36"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Capital Cities",
+    "title": "Safe And Sound",
+    "year": 2011,
+    "spotifyId": "5JVbvCHX10U2pLa5DEqGav",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5e9a012f06d4c8612a3d378cde706104c00ec621"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Véronique Sanson",
+    "title": "Besoin de personne",
+    "year": 1972,
+    "spotifyId": "2EdqnePuFG7FDPsiy5YGov",
+    "previewUrl": "https://p.scdn.co/mp3-preview/820883fe275d74967741be9c65d09859822e13ff"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Erika Vikman",
+    "title": "Cicciolina",
+    "year": 2020,
+    "spotifyId": "2XhuwL70EFtMKWWFeC4diK",
+    "previewUrl": "https://p.scdn.co/mp3-preview/4e10b4e55e2d7674124694fb57ae01cd1f8905ce"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jean-Jacques Goldman",
+    "title": "Quand la musique est bonne",
+    "year": 1982,
+    "spotifyId": "0Wh6e5EkmQseBGVeJqzC9X",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6c4865d8528b9133d3c511b2d7bb5b9c2efaabde"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Lady Gaga",
+    "title": "Poker Face",
+    "year": 2008,
+    "spotifyId": "1QV6tiMFM6fSOKOGLMHYYg",
+    "previewUrl": "https://p.scdn.co/mp3-preview/36abf77572983417d63a3aed8923d00e07167efa"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Beatles",
+    "title": "Don't Let Me Down - Remastered 2009",
+    "year": 1969,
+    "spotifyId": "3evG0BIqEFMMP7lVJh1cSf",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d9e806aae29cbb6f44533f0f882c6ee0b6575815"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "John Waite",
+    "title": "Missing You",
+    "year": 1984,
+    "spotifyId": "1Qrdlkgg9I4J7r3P4kZNwr",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7f98fac8de52abb07b4996c4058299c9d5219deb"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Major Lazer, DJ Snake et Mo",
+    "title": "Lean On",
+    "year": 2015,
+    "spotifyId": "221P5zNWNi7gMRmBEvkwka",
+    "previewUrl": "https://p.scdn.co/mp3-preview/bed4fe14bd2d62530124d17507075463097cf3d8"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Sini Sabotage",
+    "title": "Levikset repee (feat. VilleGalle)",
+    "year": 2013,
+    "spotifyId": "6QmvGtapHbSNolhCzfZGXZ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/aff547aa73f61bb98fb03a8357d77e3e3e3476a6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Julien Clerc",
+    "title": "Femmes... Je vous aime",
+    "year": 1982,
+    "spotifyId": "1Cis3BiUs6rLpT3BnRy1TR",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c9cce41823e512c2cf4387c149dd9d8fd99ed60d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Avicii",
+    "title": "Without You",
+    "year": 2017,
+    "spotifyId": "6Pgkp4qUoTmJIPn7ReaGxL",
+    "previewUrl": "https://p.scdn.co/mp3-preview/45c1b11194cb8964c23c129e04591ccb9c71cbf4"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "TOTO",
+    "title": "Africa",
+    "year": 1982,
+    "spotifyId": "2374M0fQpWi3dLnB54qaLX",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e7321b4ea1af32a9c622bc8ec3adcd0a0bb06b1e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Michel Berger",
+    "title": "La groupie du pianiste",
+    "year": 1980,
+    "spotifyId": "6wKjE3MUATWp50BP22ENR1",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2a8118e3012707eeaa4ec35f718e95953f5a2d6d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Avicii",
+    "title": "Wake Me Up",
+    "year": 2013,
+    "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
+    "previewUrl": "https://p.scdn.co/mp3-preview/231af03bbd2ec7f655575800e54a00633d7d9eac"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Marvin Gaye",
+    "title": "I Heard It Through The Grapevine",
+    "year": 1968,
+    "spotifyId": "1tqT6DhmsrtQgyCKUwotiw",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c0a09baf1364822c694b171b61db2f1480064bb6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Gotye",
+    "title": "Somebody That I Used To Know",
+    "year": 2011,
+    "spotifyId": "6md4w95cnKaW64JyEQ3A0L",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1aef7cbb23dc624ad90c5660d84062d1f77783c0"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Seal",
+    "title": "Kiss from a Rose",
+    "year": 1994,
+    "spotifyId": "3YKptz29AsOlm7WAVnztBh",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7902464c33351dafb17949c3f699bf035ba57d22"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Maroon 5",
+    "title": "This Love",
+    "year": 2002,
+    "spotifyId": "6ECp64rv50XVz93WvxXMGF",
+    "previewUrl": "https://p.scdn.co/mp3-preview/05d17c445a19455c74237d48b5d6e780f899f1ee"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Amy Macdonald",
+    "title": "This Is The Life",
+    "year": 2007,
+    "spotifyId": "2T3jgoAMbBXiMMD8pSc6QL",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0b41ee4f76ed5b428dc67193795bb9a29c35ec03"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jerry Lee Lewis",
+    "title": "Great Balls of Fire",
+    "year": 1957,
+    "spotifyId": "5jw1zzcYFivmuJK52JrnMK",
+    "previewUrl": "https://p.scdn.co/mp3-preview/70800a480f5844776d02e3596fe10d1322bcb45e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Mark Morrison",
+    "title": "Return Of The Mack",
+    "year": 1996,
+    "spotifyId": "3jDdpx9PMlfMBS5tOBHFm9",
+    "previewUrl": "https://p.scdn.co/mp3-preview/456989fb9b32c4525f0668676ad5067d20479b4a"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Benny Goodman",
+    "title": "Sing, Sing, Sing",
+    "year": 1937,
+    "spotifyId": "2haqPCPMNy1HfcWhPzC0mJ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/93dda7d5e239b1f93ad3165b06ce57cee36b8219"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jason Mraz",
+    "title": "I'm Yours",
+    "year": 2008,
+    "spotifyId": "1EzrEOXmMH3G43AXT1y7pA",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0952568e496914bb61383588ac417ec70abefc1d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "50 Cent",
+    "title": "In Da Club",
+    "year": 2003,
+    "spotifyId": "7iL6o9tox1zgHpKUfh9vuC",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c0199e9be373d6a82ae89071ae34dd38ec72b99c"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks",
+    "year": 2010,
+    "spotifyId": "7w87IxuO7BDcJ3YUqCyMTT",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2213bf4173a9b50a807a30121ed6b559a7778209"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Renaud",
+    "title": "Mistral Gagnant",
+    "year": 1985,
+    "spotifyId": "1MOSRjdAbUhvLNnHCdUEL5",
+    "previewUrl": "https://p.scdn.co/mp3-preview/4673ee2bd0a8bc15789628e1b400ecee13eb8a2e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Peter Cetera",
+    "title": "Glory of Love",
+    "year": 1968,
+    "spotifyId": "1eyq8cjUQ2daFthW2PC2GM",
+    "previewUrl": "https://p.scdn.co/mp3-preview/db8481c754fe86fe6d76c517c089b02013666089"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Harry Belafonte",
+    "title": "Banana Boat (Day-O)",
+    "year": 1956,
+    "spotifyId": "4fHDlIntTsRGSyTg5UYZYC",
+    "previewUrl": "https://p.scdn.co/mp3-preview/114de41c5959c3ba45a15f858e46e6094358d75e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Aqua",
+    "title": "Barbie Girl",
+    "year": 1997,
+    "spotifyId": "5ZrDlcxIDZyjOzHdYW1ydr",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e50666a04ed8364ec8f7cda1c8fe26f516c1da9c"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Rick Astley",
+    "title": "Never Gonna Give You Up",
+    "year": 1987,
+    "spotifyId": "4PTG3Z6ehGkBFwjybzWkR8",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b4c682084c3fd05538726d0a126b7e14b6e92c83"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Nino Ferrer",
+    "title": "Le sud",
+    "year": 1975,
+    "spotifyId": "7zjkSx1EUums3s1Yg2jPJD",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6897eca2a84c5a17e3e7322d8e5a954f4fab4875"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Apulanta",
+    "title": "Pahempi toistaan",
+    "year": 2005,
+    "spotifyId": "5373WQjhIPPJ8XGTCZLDfJ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b1551ffea82b0988643f7421a3cc8faaa8c58a4d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Chubby Checker",
+    "title": "The Twist",
+    "year": 1960,
+    "spotifyId": "4YCnTYbq3oL1Lqpyxg33CU",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c7ff17e9b040b0fbadbfe929fa814e3889ce1607"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Deep Blue Something",
+    "title": "Breakfast At Tiffany's",
+    "year": 1993,
+    "spotifyId": "1uzWOoJdADfstQuFtQFTUn",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7bf57cbf18feec369fe7642170233df65c4c16f6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Amy Winehouse",
+    "title": "Rehab",
+    "year": 2006,
+    "spotifyId": "19z17doSqEhhm4aidrUHIB",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f0fe6a4549c56b5aaefe796d56901a74a36abb8c"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Fleetwood Mac",
+    "title": "Everywhere",
+    "year": 1987,
+    "spotifyId": "1prZ0pr6XoRCxcrC3MCL0M",
+    "previewUrl": "https://p.scdn.co/mp3-preview/9b5b96a1c374c38070b1dafab4837f21f268e269"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Eros Ramazzotti",
+    "title": "Più Bella Cosa",
+    "year": 1996,
+    "spotifyId": "0KligwQn4Iy344p2Q5m6k6",
+    "previewUrl": "https://p.scdn.co/mp3-preview/95f747aa5e302a4676d382bb13105d155f4ddc32"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Shakira",
+    "title": "Waka Waka (This Time For Africa)",
+    "year": 2010,
+    "spotifyId": "63Tl9k1sH8tznn3bqoMuyF",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c78d8fac05622c2098e4f67be036aea379ff68c4"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Zaho",
+    "title": "C'est chelou",
+    "year": 2008,
+    "spotifyId": "4Kv8cUBMewJaiAUgFWg9v2",
+    "previewUrl": "https://p.scdn.co/mp3-preview/9baca132ce059e535735f5ea216fcc40cc8b0228"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "ABBA",
+    "title": "Waterloo",
+    "year": 1974,
+    "spotifyId": "3Dy4REq8O09IlgiwuHQ3sk",
+    "previewUrl": "https://p.scdn.co/mp3-preview/080b052681fc89186ce46d77e96032b53e7f0ee8"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Wiz Khalifa",
+    "title": "See You Again (feat. Charlie Puth)",
+    "year": 2015,
+    "spotifyId": "2JzZzZUQj3Qff7wapcbKjc",
+    "previewUrl": "https://p.scdn.co/mp3-preview/69c2ac6f1501e5c8bc6970273da5d06fb97a2e76"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Tuula Amberla",
+    "title": "Lulu",
+    "year": 1984,
+    "spotifyId": "5t5FRWb33aJzfBcvDcxO5e",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1637394222a2509fff534d81466f9242358338a6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Aknestik",
+    "title": "Suomirokkia",
+    "year": 1998,
+    "spotifyId": "4viYB9w1zjfrA1Rr8u06QN",
+    "previewUrl": "https://p.scdn.co/mp3-preview/23a8aae628318ce772585c7c613050eb1803b3dd"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Bill Haley & His Comets",
+    "title": "(We're Gonna) Rock Around The Clock",
+    "year": 1954,
+    "spotifyId": "1uRKT2LRANv4baowBWHfDS",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e0c8c95f061db7f75c533dff8aaa3740d3293e38"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dean Martin",
+    "title": "That's Amore",
+    "year": 1953,
+    "spotifyId": "5vtJAOVULbRPP0Ux6PPmpP",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c329faf5ea1a8f3e44d6fdaac57773020712cffa"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Twisted Sister",
+    "title": "We're Not Gonna Take It",
+    "year": 1984,
+    "spotifyId": "5X79VgaOn8pDTpTKu3PixN",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a2b85a55588e3355797fa017502b5028a898a579"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Indila",
+    "title": "Dernière danse",
+    "year": 2013,
+    "spotifyId": "65uoaqX5qcjXZRheAj1qQT",
+    "previewUrl": "https://p.scdn.co/mp3-preview/25060cf42bd95a9d388464d8f9b17550a3c72699"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Ne-Yo",
+    "title": "So Sick",
+    "year": 2005,
+    "spotifyId": "6brl7bwOHmGFkNw3MBqssT",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d20bda60099b74668ec74447fa0494b47cba8650"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Sam Cooke",
+    "title": "(What A) Wonderful World",
+    "year": 1960,
+    "spotifyId": "2G0GextMwZJLkNxcSZ7ZJ3",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f86b244689128f478f1e8b31a364341830ae754b"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Robyn",
+    "title": "Hang with Me",
+    "year": 2010,
+    "spotifyId": "5yGa5ZJbRBJMJxu8csZHeC",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b5a9a8744c587cb736d9a96c796ec3abf90905e4"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kelly Clarkson",
+    "title": "Because Of You",
+    "year": 2005,
+    "spotifyId": "0gJvqi9QyASOCtJu99tytc",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0cd74a6a46dfee06ce4ad63c8cb0febdc10cd730"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "U2",
+    "title": "With Or Without You",
+    "year": 1987,
+    "spotifyId": "6ADSaE87h8Y3lccZlBJdXH",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a7e5de3437eecf201cc1817a7b2d8fae96910199"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Daniel Balavoine",
+    "title": "Je ne suis pas un héros",
+    "year": 1980,
+    "spotifyId": "3bHwuIcUkM1mc7c1u7vgbQ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ac82bbea099da454a3fe5ee43300a419d31ed35e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "ALMA",
+    "title": "Chasing Highs",
+    "year": 2017,
+    "spotifyId": "3GJjiToqnCxTm5rOaqoxdi",
+    "previewUrl": "https://p.scdn.co/mp3-preview/fa50c51e4dd394dc0e6f047786f6a34cfe9d7fd7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dadju",
+    "title": "Compliqué",
+    "year": 2019,
+    "spotifyId": "6VtG4p0It4nM0aStU46hEl",
+    "previewUrl": "https://p.scdn.co/mp3-preview/98f5d11b237f1fb1f1aa483eb6203172435c7c62"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Téléphone",
+    "title": "Cendrillon",
+    "year": 1982,
+    "spotifyId": "5Aom4pV5XRvO33DrZ5bMLD",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6bacf54932654c59c32515761639eb562fed6d27"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Chainsmokers",
+    "title": "Something Just Like This",
+    "year": 2017,
+    "spotifyId": "1dNIEtp7AY3oDAKCGg2XkH",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1d4d3e58eaa3925684be0a0e3465d234e565e20e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Pierre Perret",
+    "title": "Les jolies colonies de vacances",
+    "year": 1966,
+    "spotifyId": "2nD5AtzFsSx8OVjH3fWRsP",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0e3211d27770c3e05b15753f4f41f158c5467b6b"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Kinks",
+    "title": "Lola",
+    "year": 1970,
+    "spotifyId": "4Tjs8b6jL1s18sjURJtswp",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f94cad9e017ec344d390fe1d9c0c6034abbda35f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "John Legend",
+    "title": "All Of Me",
+    "year": 2013,
+    "spotifyId": "3U4isOIWM3VvDubwSI3y7a",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ebf0e42b2eb2acb22639c23b74d49f07038e5887"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Depeche Mode",
+    "title": "Just Can't Get Enough",
+    "year": 1981,
+    "spotifyId": "0qi4b1l0eT3jpzeNHeFXDT",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1fd77f7080608d8349aca06f53e57b0a368f2234"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Ava Max",
+    "title": "Sweet but Psycho",
+    "year": 2018,
+    "spotifyId": "7DnAm9FOTWE3cUvso43HhI",
+    "previewUrl": "https://p.scdn.co/mp3-preview/027a262bbbce639949fe075756718734c313dac2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Mika",
+    "title": "Elle me dit",
+    "year": 2011,
+    "spotifyId": "3xUhchyBGEUNAwelO2yzqp",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b13675dc959d18fb2020838aa32665d16a991f54"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "UB40",
+    "title": "Red Red Wine",
+    "year": 1983,
+    "spotifyId": "4uOKFydzAejjSFqYbv1XPt",
+    "previewUrl": "https://p.scdn.co/mp3-preview/9dd928f24d2585908e6ea9c308c0f0ffa9e7aa97"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Post Malone",
+    "title": "rockstar (feat. 21 Savage)",
+    "year": 2017,
+    "spotifyId": "0e7ipj03S05BNilyu5bRzt",
+    "previewUrl": "https://p.scdn.co/mp3-preview/beb04a51a925ea2ed2fb7c2363b7b3fa37ebc89b"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dua Lipa",
+    "title": "Break My Heart",
+    "year": 2020,
+    "spotifyId": "5YDD6DuZ04mKQtm0avJTJd",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c28ba3eecf485eb1c8a6619c9c60aa4ab5feb424"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Simon & Garfunkel",
+    "title": "Mrs. Robinson",
+    "year": 1968,
+    "spotifyId": "0iOZM63lendWRTTeKhZBSC",
+    "previewUrl": "https://p.scdn.co/mp3-preview/792815c360433ea7ec2baa5425aeece647bb61d9"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Amel Bent",
+    "title": "Ma Philosophie",
+    "year": 2004,
+    "spotifyId": "1HOtCYTuOCISpTn9cW6fcz",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7ef9def6cc2693a99a86d4af22757aeedb939f01"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Frankie Valli & The Four Seasons",
+    "title": "Sherry",
+    "year": 1962,
+    "spotifyId": "0NpvdCO506uO58D4AbKzki",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e3f765262ebc349e663182d0e19bb24766314f39"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Modjo",
+    "title": "Lady (Hear Me Tonight)",
+    "year": 2000,
+    "spotifyId": "49X0LAl6faAusYq02PRAY6",
+    "previewUrl": "https://p.scdn.co/mp3-preview/05e58f0bcf5a9a29f60d5aa4fd685a528a59f328"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Hurriganes",
+    "title": "Get On",
+    "year": 1974,
+    "spotifyId": "2xSnGBBEUuoKJAbLBtuxDr",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5f12ce46f0eed183cad4591222f4810bc29e7014"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kris Kross",
+    "title": "Jump",
+    "year": 1992,
+    "spotifyId": "27AHAtAirQapVldIm4c9ZX",
+    "previewUrl": "https://p.scdn.co/mp3-preview/3bfd22ebed8273e6ba6494f72db262a58aaf5f04"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Alain Delon et Dalida",
+    "title": "Paroles paroles",
+    "year": 1973,
+    "spotifyId": "0a8D4XKIHgtGrkXUtjlnCO",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2786ad43f3de62962130a4adbe7a97cee96959dd"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Thierry Hazard",
+    "title": "Le jerk",
+    "year": 1990,
+    "spotifyId": "0YJjl4SSIBx3h7L5M9OgiG",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d0c3b691061fa61c7f8dcaf91c787ac762397a04"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jason Derulo",
+    "title": "Whatcha Say",
+    "year": 2009,
+    "spotifyId": "7xkQdy0cy5ymoWT7nedvLz",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c38e8cf655b1b4ffe8d31d340dc9675f91e43f3b"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Ja Rule",
+    "title": "Always On Time",
+    "year": 2001,
+    "spotifyId": "2hNf1rawV2XAZ6Jld2Fxwf",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e092bf82bcb5d96acd231028be273e323a8ac010"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Dubliners",
+    "title": "Whiskey in the Jar",
+    "year": 1967,
+    "spotifyId": "1UzofFX5AkfTDnwjcBkM4J",
+    "previewUrl": "https://p.scdn.co/mp3-preview/3e96cdfb363e788692ecde6b4bf79ec3fc6dc62f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Paramount Jubilee Singers",
+    "title": "When All The Saints Come Marching In (Take 2)",
+    "year": 1923,
+    "spotifyId": "5ElGiMyHp9S4jC1XTuTwzG",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6113fe2811542207f6bc72113fd195a3774daa75"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Les Poppys",
+    "title": "Non, non, rien n'a changé",
+    "year": 1971,
+    "spotifyId": "1fxoAloBlcKe3t49QwIL4m",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f8d9cac59e55f2be4bd5c9ea17f81e4191db09ca"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "John Denver",
+    "title": "Take Me Home, Country Roads - Original Version",
+    "year": 1971,
+    "spotifyId": "1YYhDizHx7PnDhAhko6cDS",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7f1ac54634e9ffe499c53d57300f055fe60d7a71"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Rick James",
+    "title": "Super Freak",
+    "year": 1981,
+    "spotifyId": "2dCmGcEOQrMQhMMS8Vj7Ca",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ef2c59a916249d860115a1fb2f99c0854a6b6b25"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Gimmel",
+    "title": "Etsit Muijaa Seuraavaa",
+    "year": 2002,
+    "spotifyId": "5ZnxGXgVnjsjduuqvGaPA0",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f6669782a26d979f0c5ea0bbb28548cf5f90a9df"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kaseva",
+    "title": "Striptease tanssija",
+    "year": 1974,
+    "spotifyId": "1d8oE2UouwTNZ0AYcnpwqQ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/253b51fb181575e20163bd0754f68c2e286dc4e1"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Marc Lavoine",
+    "title": "Elle a les yeux revolver",
+    "year": 1985,
+    "spotifyId": "1fU9wVDi3yZrawv1Rc4vcS",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a0c9249a679223228d49e6611fecf6058c36db00"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "BESS",
+    "title": "Ram pam pam",
+    "year": 2022,
+    "spotifyId": "3HkGWngSgieI9DdklKeFkt",
+    "previewUrl": "https://p.scdn.co/mp3-preview/8d49de754858536eac89a4e80e66f527f34ed49f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Diddy",
+    "title": "I'll Be Missing You (feat. Faith Evans, 112)",
+    "year": 1997,
+    "spotifyId": "3QHONiXGMGU3z68mQInncF",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7a927e05125e0dad4b1786354f44b6b5cd878bf5"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dolly Parton",
+    "title": "Jolene",
+    "year": 1973,
+    "spotifyId": "2SpEHTbUuebeLkgs9QB7Ue",
+    "previewUrl": "https://p.scdn.co/mp3-preview/dd703b76c54a7467f6a78861aa1500b541b7e6b8"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Eagle-Eye Cherry",
+    "title": "Save Tonight",
+    "year": 1997,
+    "spotifyId": "0smyCrJiibi2uwCiq5R1vj",
+    "previewUrl": "https://p.scdn.co/mp3-preview/92ede2b4283630cbfd4cbf508b22cc248ffc740f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Pete Parkkonen",
+    "title": "Kohta sataa",
+    "year": 2016,
+    "spotifyId": "4kGhbFHHzx9Hh2CuDnujNg",
+    "previewUrl": "https://p.scdn.co/mp3-preview/27c65c169a92f44d6a3923d85dd8f557bc6c100d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
     "artist": "Bob Marley & The Wailers",
     "title": "No Woman No Cry",
     "year": 1974,
     "spotifyId": "3PQLYVskjUeRmRIfECsL0X",
     "previewUrl": "https://p.scdn.co/mp3-preview/0cb785f6f18060e343c72fa22eddcc9b2bfd38ee"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Booba",
+    "title": "Petite Fille",
+    "year": 2017,
+    "spotifyId": "68t93W7Mdwlvia5CpHNsBM",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b5174256f12cb3282e4d093247a5aac205927057"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Baby Bash",
+    "title": "Suga Suga",
+    "year": 2003,
+    "spotifyId": "0F5pCWESvge1PwZF425IRg",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c390611e5e2b6708cd93d558f92205f9c1c05ad2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Tina Charles",
+    "title": "I Love to Love",
+    "year": 1976,
+    "spotifyId": "5jWI1xNxABzDRFTnD2yp8L",
+    "previewUrl": "https://p.scdn.co/mp3-preview/fa171679ea73e60292ef0073db952373b9162dd4"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Chantal Goya",
+    "title": "Un lapin",
+    "year": 1977,
+    "spotifyId": "73xsUbrW2JXv1ziLFe6VxG",
+    "previewUrl": "https://p.scdn.co/mp3-preview/31fa38318bd1d93b287be97b27635868afde6463"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Nekfeu",
+    "title": "On verra",
+    "year": 2015,
+    "spotifyId": "57I5KhEpQFC9XBgKt6nklL",
+    "previewUrl": "https://p.scdn.co/mp3-preview/928e54f29d2464c69d4d650ab2acf208248ee8b5"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jul",
+    "title": "Tchikita",
+    "year": 2016,
+    "spotifyId": "6bXd0YhKLCTvlLVc4tErH9",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f3f3ddadbededab95de2d55c4ba3b825ebfc84f2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kendji Girac",
+    "title": "Andalouse",
+    "year": 2014,
+    "spotifyId": "0fqlz0L5w16uQrELsFxTp0",
+    "previewUrl": "https://p.scdn.co/mp3-preview/be7fd8edadcabe0c198dec3902f11d69a7fed6f2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Gina G",
+    "title": "Ooh Aah...Just a Little Bit - Motiv8 Radio Edit",
+    "year": 1996,
+    "spotifyId": "7kyMLaXepcGHIrsLqoiTB8",
+    "previewUrl": "https://p.scdn.co/mp3-preview/aee99c9521573f113f050bb4099f33501689734a"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "KISS",
+    "title": "I Was Made For Lovin' You",
+    "year": 1979,
+    "spotifyId": "07q0QVgO56EorrSGHC48y3",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b1b157ab314c7b457e21318a7035c6a44555f1b7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Coeur de Pirate",
+    "title": "Comme des enfants",
+    "year": 2009,
+    "spotifyId": "0FNFkTfptDRi0AFaulrpOY",
+    "previewUrl": "https://p.scdn.co/mp3-preview/fe4fcff3d0c2148cdf2cb99f4abc7f2cac687d56"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kate Bush",
+    "title": "Running Up That Hill (A Deal With God)",
+    "year": 1985,
+    "spotifyId": "1PtQJZVZIdWIYdARpZRDFO",
+    "previewUrl": "https://p.scdn.co/mp3-preview/861d26b52ece3e3ad72a7dc3463daece3478801a"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Duck Sauce",
+    "title": "Barbra Streisand - Radio Edit",
+    "year": 2010,
+    "spotifyId": "782lNGn2rEHVn8JomdtRA7",
+    "previewUrl": "https://p.scdn.co/mp3-preview/bfc11644ceb401f1ae8643eced1c9adc4b867f8a"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Barbara",
+    "title": "L'aigle Noir",
+    "year": 1970,
+    "spotifyId": "0e3J7BxEO608VEaQ5aZNoU",
+    "previewUrl": "https://p.scdn.co/mp3-preview/cd5faad80b0ffc9af627014a16ce1bd148fc708d"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Rasmus",
+    "title": "In the Shadows",
+    "year": 2003,
+    "spotifyId": "1fr92Vupmcs2vgLMFVQ7rd",
+    "previewUrl": "https://p.scdn.co/mp3-preview/c720eedfca3d850dcf5ecade2c31ab5101c12fe2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kim Wilde",
+    "title": "Kids In America",
+    "year": 1981,
+    "spotifyId": "3LaHsdzzmvhx6TJedpomVy",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6d6af7d109c48ccd100e6e0c169841a01eb584ba"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Shaggy",
+    "title": "It Wasn't Me",
+    "year": 2000,
+    "spotifyId": "3WkibOpDF7cQ5xntM1epyf",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a0b006f31a20deb4e965c3a2092a975067064c36"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Michel Fugain et Le Big Bazar",
+    "title": "Attention mesdames et messieurs",
+    "year": 1972,
+    "spotifyId": "1v7ctPkzk1G3LXNhisLpvO",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ce8fa2af6ede5a3a4481a69b372d761e70d37338"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Marvin Gaye",
+    "title": "Ain't No Mountain High Enough",
+    "year": 1967,
+    "spotifyId": "7tqhbajSfrz2F7E1Z75ASX",
+    "previewUrl": "https://p.scdn.co/mp3-preview/7301aee11d8646c25071e0825b0794aa609092db"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kari Tapio",
+    "title": "Olen suomalainen",
+    "year": 1983,
+    "spotifyId": "662nWPO9p3jNw893AdH05q",
+    "previewUrl": "https://p.scdn.co/mp3-preview/820cdbf77461c3199e558c33ec991dfa8aeef587"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "American Authors",
+    "title": "Best Day Of My Life",
+    "year": 2013,
+    "spotifyId": "5Hroj5K7vLpIG4FNCRIjbP",
+    "previewUrl": "https://p.scdn.co/mp3-preview/caf61e3a88f77f587e097076ac1590f11a590e88"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven - Remaster",
+    "year": 1971,
+    "spotifyId": "5CQ30WqJwcep0pYcV4AMNc",
+    "previewUrl": "https://p.scdn.co/mp3-preview/337c8d45ac66899bc2db9ef3ed9438fe1d035ab1"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Technotronic",
+    "title": "Pump Up The Jam",
+    "year": 1989,
+    "spotifyId": "21qnJAMtzC6S5SESuqQLEK",
+    "previewUrl": "https://p.scdn.co/mp3-preview/82a1c5bc4cbf4aa75fe052a88c800f1096c0bf7b"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "MAGIC!",
+    "title": "Rude",
+    "year": 2013,
+    "spotifyId": "6RtPijgfPKROxEzTHNRiDp",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1b0c13e0cf20a6756a18e779ec0351791800cf9e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Alain Souchon",
+    "title": "Foule sentimentale",
+    "year": 1993,
+    "spotifyId": "2W4ZxAHZAXOf6r65pCskGR",
+    "previewUrl": "https://p.scdn.co/mp3-preview/8de86861b43512362a32d9e5afb72ae98a9a6a14"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Anssi Kela",
+    "title": "1972",
+    "year": 2003,
+    "spotifyId": "7BkWKIEQYvABzJiSb5O6ZN",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d4022e8400c647e7fff963f3497148ac437b5905"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Linda Lyndell",
+    "title": "What A Man",
+    "year": 1968,
+    "spotifyId": "7dwJqwTXDtsrX1QLqb0o96",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d4f69748f9cdd43b0c1eddb269a63cb9d85743ea"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Olly Alexander (Years & Years)",
+    "title": "King",
+    "year": 2015,
+    "spotifyId": "3AeicLnm55RqcXGBKYQolM",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ec290c814455a3dd06316c8465fab9c1a12a6e7f"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jukka Poika",
+    "title": "Silkkii",
+    "year": 2011,
+    "spotifyId": "7dyJ9FIcaPMFEnsILJM8S2",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2855ab1a22a9498f780cf56397b4e0e30087eefb"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Stevie Wonder",
+    "title": "Signed, Sealed, Delivered (I'M Yours)",
+    "year": 1970,
+    "spotifyId": "2C5SI38AMmqckQGnD1H2FO",
+    "previewUrl": "https://p.scdn.co/mp3-preview/a5b72edb206044aa54a6fc19325903b8c3ea9c02"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Happoradio",
+    "title": "Che Guevara",
+    "year": 2008,
+    "spotifyId": "5gsQegOEB7admETkL6ckUL",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0303529e4633108f35f52f966cd2f001f53dbfe6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Ace Of Base",
+    "title": "All That She Wants",
+    "year": 1992,
+    "spotifyId": "6kWJvPfC4DgUpRsXKNa9z9",
+    "previewUrl": "https://p.scdn.co/mp3-preview/eef43d18f73d83ff358852d874dd564f55e86932"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Cranberries",
+    "title": "Zombie",
+    "year": 1994,
+    "spotifyId": "49wOjOkS4pBK3PQnPnNYjb",
+    "previewUrl": "https://p.scdn.co/mp3-preview/bcd597a5b850404bb24687c7b30af64422dbe421"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Supremes",
+    "title": "Baby Love",
+    "year": 1964,
+    "spotifyId": "5uES1C2NgkdrNHiCwf9jRr",
+    "previewUrl": "https://p.scdn.co/mp3-preview/2f5598c02adad78366b430c2481d761cd335bbec"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Meghan Trainor",
+    "title": "All About That Bass",
+    "year": 2014,
+    "spotifyId": "5jE48hhRu8E6zBDPRSkEq7",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b1c8b7852d553e5ebe39840e3bd2b9de96152ec0"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dingo",
+    "title": "Autiotalo",
+    "year": 1984,
+    "spotifyId": "6gZiWkvxlNl6DSZkp58p4d",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5f1f57e994e94f75a5f074a53ea3bf1f222cf447"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Passenger",
+    "title": "Let Her Go",
+    "year": 2012,
+    "spotifyId": "4bzBPrGYD3fQfAadLgIiwT",
+    "previewUrl": "https://p.scdn.co/mp3-preview/603436aecbacc822f0244488a512c00971f783f7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Chic",
+    "title": "Le freak",
+    "year": 1978,
+    "spotifyId": "7Kszjzps0xbQXyo1pO4KfE",
+    "previewUrl": "https://p.scdn.co/mp3-preview/866259f80fdc5ad407ea3fb300aa74bde9635e62"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Bob Azzam",
+    "title": "Mustapha",
+    "year": 1959,
+    "spotifyId": "2Dsw0QFS4kM6o4XjlQiRRQ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/114fb4f9cc1c4e0611fd772e7c2f8cc6ad230342"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Queen",
+    "title": "Bohemian Rhapsody",
+    "year": 1975,
+    "spotifyId": "3z8h0TU7ReDPLIbEnYhWZb",
+    "previewUrl": "https://p.scdn.co/mp3-preview/8cc86bce50c7006c0d3f85cfa404d6540dec8d1e"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Chordettes",
+    "title": "Lollipop",
+    "year": 1958,
+    "spotifyId": "0ZOuues7b9AgBOJ0YRZMLR",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f07348987395f4b720c3eb7b712b4f6f254e7780"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Prince",
+    "title": "Purple Rain",
+    "year": 1984,
+    "spotifyId": "1uvyZBs4IZYRebHIB1747m",
+    "previewUrl": "https://p.scdn.co/mp3-preview/81bd92ac70dc7b6dd32aabfb186fe67857147834"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Los Del Rio",
+    "title": "Macarena",
+    "year": 1993,
+    "spotifyId": "6mhw2fEPH4fMF0wolNm96e",
+    "previewUrl": "https://p.scdn.co/mp3-preview/ce0bf47aa90ae1508581952c3b66d3d5766ea2c1"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Jennifer Rush",
+    "title": "The Power of Love",
+    "year": 1984,
+    "spotifyId": "18DfMhEx4ddoreHrvZDF6Q",
+    "previewUrl": "https://p.scdn.co/mp3-preview/e2d18731d7ff15f660dcfad139bc9202ccd85ff1"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Gérard Lenorman",
+    "title": "La ballade des gens heureux",
+    "year": 1975,
+    "spotifyId": "0hO4TgWkyR3XiI6P3x731B",
+    "previewUrl": "https://p.scdn.co/mp3-preview/d24ca0a9db0fdb7748070ebb322ea772d0ebc9f5"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "K.Maro",
+    "title": "Femme Like U",
+    "year": 2004,
+    "spotifyId": "4iVnfuAmwJNAGsiHz8Po6Y",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5eb4b863c22356d5131b140843cc59c5808ec873"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "J. Karjalainen",
+    "title": "Mennyt mies",
+    "year": 2012,
+    "spotifyId": "0thSyp6VHdgcQsSuoYEdOJ",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5128a4a7aa4f2b2cca2ef9237f63caa8bc58e357"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Irina",
+    "title": "Pokka",
+    "year": 2007,
+    "spotifyId": "17QAMdhDeJN1s36OjtaI5w",
+    "previewUrl": "https://p.scdn.co/mp3-preview/77228ecafcc1d83bdb7007b5dd7feaf71967c4f4"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "R.E.M",
+    "title": "Everybody Hurts",
+    "year": 1992,
+    "spotifyId": "6PypGyiu0Y2lCDBN1XZEnP",
+    "previewUrl": "https://p.scdn.co/mp3-preview/23bc35da41a99d4f3a686ac24d4da5305a4cdfc2"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Righteous Brothers",
+    "title": "Unchained Melody",
+    "year": 1965,
+    "spotifyId": "2qhASBzpbFhPRtrnZ5lLnz",
+    "previewUrl": "https://p.scdn.co/mp3-preview/6bf5e54931ce622e2e5b402b2d5959353de8cb10"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "The Darkness",
+    "title": "I Believe in a Thing Called Love",
+    "year": 2003,
+    "spotifyId": "756CJtQRFSxEx9jV4P9hpA",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b986b95e65dd6df06248d98e804b4ae937ca7df7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Kool & The Gang",
+    "title": "Celebration",
+    "year": 1980,
+    "spotifyId": "3K7Q9PHUWPTaknlbFPThn2",
+    "previewUrl": "https://p.scdn.co/mp3-preview/1ba26bd1583538201bbd9c8b9d822b2d340eb301"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Dexys Midnight Runners",
+    "title": "Come On Eileen",
+    "year": 1982,
+    "spotifyId": "3MrWxJaD2AT0W9DjWF64Vm",
+    "previewUrl": "https://p.scdn.co/mp3-preview/8435daf9abbc3d0cc616b08ff8e4cccae63bc8b7"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Chris Montez",
+    "title": "Let's Dance",
+    "year": 1962,
+    "spotifyId": "5wwupkDp0NU7yujPOf0iOf",
+    "previewUrl": "https://p.scdn.co/mp3-preview/10570d9dcc35f05c97743e62c5c48567763ccda6"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Midnight Oil",
+    "title": "Beds Are Burning - Remastered",
+    "year": 1987,
+    "spotifyId": "1CtAzw53AIXKjAemxy4b1j",
+    "previewUrl": "https://p.scdn.co/mp3-preview/5be028a45461c43aac74fd04a6d5466fe5cfc515"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "blink-182",
+    "title": "All The Small Things",
+    "year": 1999,
+    "spotifyId": "2m1hi0nfMR9vdGC8UcrnwU",
+    "previewUrl": "https://p.scdn.co/mp3-preview/b1447b8d76183737ea2ebd10f70da6292904f833"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Samuli Edelmann",
+    "title": "Peggy",
+    "year": 1991,
+    "spotifyId": "55kwHA4qdGx6xyuWkwcI3f",
+    "previewUrl": "https://p.scdn.co/mp3-preview/0cdf2f977d17909e82030a7da42d4e2b9a5a8455"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Panic! At The Disco",
+    "title": "High Hopes",
+    "year": 2018,
+    "spotifyId": "1rqqCSm0Qe4I9rUvWncaom",
+    "previewUrl": "https://p.scdn.co/mp3-preview/f6995ad54d79b7ffaf0da6833409666ada11a173"
+  },
+  {
+    "playlist": "International",
+    "file": "hitster-international",
+    "artist": "Maggie Lindemann",
+    "title": "Pretty Girl",
+    "year": 2016,
+    "spotifyId": "1ue7zm5TVVvmoQV8lK6K2H",
+    "previewUrl": "https://p.scdn.co/mp3-preview/cfc7cd6a9898090d1bab9880a13ee5c058248294"
   }
 ]
