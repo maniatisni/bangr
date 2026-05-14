@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 120" width="360" height="120">
+  <rect width="360" height="120" rx="16" fill="#1a1814"/>
+  <text
+    x="28" y="86"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="72"
+    font-weight="700"
+    letter-spacing="-2"
+    fill="#f5f1e8"
+  >bangr<tspan fill="#1ddf6f">.</tspan></text>
+</svg>
