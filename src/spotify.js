@@ -103,21 +103,3 @@ export function logout() {
 
 // ── Spotify API ───────────────────────────────────────────────────────────────
 
-// Search Spotify for a song and return its 30-second preview URL.
-// Returns null if no preview is available for any match.
-export async function getPreviewUrl(token, artist, title) {
-  const q = encodeURIComponent(`track:${title} artist:${artist}`);
-  const response = await fetch(
-    `https://api.spotify.com/v1/search?q=${q}&type=track&limit=5`,
-    { headers: { Authorization: `Bearer ${token}` } }
-  );
-
-  if (!response.ok) return null;
-
-  const data = await response.json();
-  const tracks = data.tracks?.items ?? [];
-
-  // Take the first track that has a preview
-  const match = tracks.find(t => t.preview_url);
-  return match?.preview_url ?? null;
-}

@@ -7,13 +7,13 @@ const FLAG_MAP = {
 }
 
 function flagFor(filename) {
-  const m = filename.match(/bangr-([a-z]+)/)
+  const m = filename.match(/hitster-([a-z]+)/)
   return FLAG_MAP[m?.[1]] ?? '🎵'
 }
 
-// Shorten the game name for display — strip "bangr " prefix
+// Shorten the game name for display — strip "Hitster " prefix
 function shortName(gameName) {
-  return gameName.replace(/^bangr\s*/i, '')
+  return gameName.replace(/^Hitster\s*/i, '')
 }
 
 export default function UniverseSelector({ onSelect }) {

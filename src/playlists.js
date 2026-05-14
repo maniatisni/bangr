@@ -1,34 +1,38 @@
-// Fetches song lists (CSVs) from the andygruber/songseeker-bangr-playlists repo.
-// We read the files directly from GitHub at runtime — no database needed.
+// Song data is pre-built by scripts/seed.py and stored in public/songs.json.
+// The game reads that file at runtime — no live API calls needed for song data.
 
-import Papa from 'papaparse';
-
-const RAW =
-  'https://raw.githubusercontent.com/andygruber/songseeker-bangr-playlists/main/';
-
-async function fetchCSV(filename) {
-  const res = await fetch(RAW + filename);
-  if (!res.ok) throw new Error(`Failed to fetch ${filename}`);
-  const text = await res.text();
-  const { data } = Papa.parse(text, { header: true, skipEmptyLines: true });
-  return data;
+// Load all songs from the pre-built JSON file
+let _cache = null;
+async function loadSongs() {
+  if (_cache) return _cache;
+  const res = await fetch(`${import.meta.env.BASE_URL}songs.json`);
+  if (!res.ok) throw new Error('Failed to load songs.json');
+  _cache = await res.json();
+  return _cache;
 }
 
-// Returns the list of available universes: [{ File, Game }, ...]
+// Returns unique universes present in songs.json: [{ File, Game, count }, ...]
 export async function fetchUniverses() {
-  return fetchCSV('playlists.csv');
+  const songs = await loadSongs();
+  const map = {};
+  for (const s of songs) {
+    if (!map[s.file]) map[s.file] = { File: s.file, Game: `Hitster ${s.playlist}`, count: 0 };
+    map[s.file].count++;
+  }
+  return Object.values(map);
 }
 
-// Loads a universe's songs: [{ artist, title, year }, ...]
+// Returns songs for a given universe file, only those with a preview URL
 export async function fetchPlaylist(filename) {
-  const rows = await fetchCSV(filename);
-  return rows
-    .map(row => ({
-      artist: row['Artist']?.trim(),
-      title: row['Title']?.trim(),
-      year: parseInt(row['Year']),
-    }))
-    .filter(card => card.artist && card.title && !isNaN(card.year));
+  const songs = await loadSongs();
+  return songs
+    .filter(s => s.file === filename && s.previewUrl)
+    .map(s => ({
+      artist:     s.artist,
+      title:      s.title,
+      year:       s.year,
+      previewUrl: s.previewUrl,
+    }));
 }
 
 // Fisher-Yates shuffle — produces a new array, doesn't mutate the original

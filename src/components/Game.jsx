@@ -5,15 +5,57 @@
 // After placing: full-screen result splash, then next card.
 
 import { useState, useEffect, useRef, useCallback } from 'react'
-import { getPreviewUrl } from '../spotify.js'
 import { fetchPlaylist, shuffle } from '../playlists.js'
 
-const YEAR_MIN   = 1950
-const YEAR_MAX   = 2025
-const WIN_SCORE  = 10
+const YEAR_MIN  = 1950
+const YEAR_MAX  = 2025
+const WIN_SCORE = 10
 const SKIP_LIMIT = 5
-const DECADES    = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020]
-const WAVE_BARS  = 22
+const DECADES   = [1950, 1960, 1970, 1980, 1990, 2000, 2010, 2020]
+const WAVE_BARS = 22
+
+// ── YouTube IFrame API ────────────────────────────────────────────────────────
+// Load the API once globally (calling it twice is harmless)
+function loadYTScript() {
+  if (document.querySelector('script[src*="youtube.com/iframe_api"]')) return;
+  const s = document.createElement('script');
+  s.src = 'https://www.youtube.com/iframe_api';
+  document.head.appendChild(s);
+}
+
+function useYTPlayer(containerRef, onEnded) {
+  const playerRef = useRef(null);
+  const readyRef  = useRef(false);
+
+  useEffect(() => {
+    loadYTScript();
+
+    const init = () => {
+      if (!containerRef.current) return;
+      playerRef.current = new window.YT.Player(containerRef.current, {
+        width: 1, height: 1,
+        playerVars: { controls: 0, playsinline: 1, rel: 0, modestbranding: 1 },
+        events: {
+          onReady: () => { readyRef.current = true; },
+          onStateChange: e => {
+            if (e.data === window.YT?.PlayerState?.ENDED) onEnded();
+          },
+        },
+      });
+    };
+
+    if (window.YT?.Player) {
+      init();
+    } else {
+      const prev = window.onYouTubeIframeAPIReady;
+      window.onYouTubeIframeAPIReady = () => { prev?.(); init(); };
+    }
+
+    return () => { playerRef.current?.destroy(); playerRef.current = null; readyRef.current = false; };
+  }, []);
+
+  return { playerRef, readyRef };
+}
 
 // ── Year / ruler math ─────────────────────────────────────────────────────────
 
@@ -248,61 +290,41 @@ function YearRuler({ placed, selectedGap, onSelectGap }) {
 // ── Main Game component ───────────────────────────────────────────────────────
 
 export default function Game({ token, universe, onBack }) {
-  const [allCards,  setAllCards]  = useState([])
-  const [deckIdx,   setDeckIdx]   = useState(0)
-  const [placed,    setPlaced]    = useState([])   // sorted by year
-  const [current,   setCurrent]   = useState(null)
-  const [previewUrl, setPreviewUrl] = useState(null)
-  const [phase,     setPhase]     = useState('init')  // init|loading|playing|result-correct|result-wrong|won
-  const [selectedGap,  setSelectedGap]  = useState(null)  // gap index
-  const [selectedYear, setSelectedYear] = useState(null)  // tapped year (display only)
-  const [isPlaying, setIsPlaying]  = useState(false)
-  const [round,     setRound]      = useState(1)
-  const [score,     setScore]      = useState(0)
-  const [streak,    setStreak]     = useState(0)
-  const [resultCard, setResultCard] = useState(null)
+  const [allCards,     setAllCards]     = useState([])
+  const [deckIdx,      setDeckIdx]      = useState(0)
+  const [placed,       setPlaced]       = useState([])
+  const [current,      setCurrent]      = useState(null)
+  const [phase,        setPhase]        = useState('init')
+  const [selectedGap,  setSelectedGap]  = useState(null)
+  const [selectedYear, setSelectedYear] = useState(null)
+  const [isPlaying,    setIsPlaying]    = useState(false)
+  const [round,        setRound]        = useState(1)
+  const [score,        setScore]        = useState(0)
+  const [streak,       setStreak]       = useState(0)
+  const [resultCard,   setResultCard]   = useState(null)
   const audioRef = useRef(null)
 
-  // Load playlist on mount
+  // Load playlist on mount — cards already have previewUrl from songs.json
   useEffect(() => {
     fetchPlaylist(universe.File).then(cards => {
       const sh = shuffle(cards)
       setAllCards(sh)
+      loadCard(sh[0], sh.slice(1))
     })
   }, [])
 
-  // When allCards populated, load the first card
-  useEffect(() => {
-    if (allCards.length > 0 && phase === 'init') {
-      loadCard(0, allCards)
-    }
-  }, [allCards])
-
-  const loadCard = useCallback(async (startIdx, cards) => {
-    setPhase('loading')
+  const loadCard = useCallback((card, remaining) => {
+    if (audioRef.current) { audioRef.current.pause(); audioRef.current.currentTime = 0 }
+    setCurrent(card)
+    setDeckIdx(0) // not needed anymore, use remaining directly
+    setPhase('playing')
     setSelectedGap(null)
     setSelectedYear(null)
     setIsPlaying(false)
     setResultCard(null)
-
-    // Skip cards with no Spotify preview (up to SKIP_LIMIT)
-    let idx = startIdx
-    let skipped = 0
-    while (skipped <= SKIP_LIMIT && idx < cards.length) {
-      const card = cards[idx]
-      const url = await getPreviewUrl(token, card.artist, card.title)
-      if (url) {
-        setCurrent(card)
-        setDeckIdx(idx + 1)
-        setPreviewUrl(url)
-        setPhase('playing')
-        return
-      }
-      idx++
-      skipped++
-    }
-    setPhase('no-preview')
-  }, [token])
+    // store remaining deck on allCards so nextCard can access it
+    setAllCards(remaining)
+  }, [])
 
   function togglePlay() {
     const audio = audioRef.current
@@ -317,7 +339,7 @@ export default function Game({ token, universe, onBack }) {
   }
 
   function confirmPlace() {
-    if (selectedGap === null) return
+    if (selectedGap === null || phase !== 'playing') return
     if (audioRef.current) { audioRef.current.pause(); setIsPlaying(false) }
 
     const [lo, hi] = gapBounds(selectedGap, placed)
@@ -341,7 +363,9 @@ export default function Game({ token, universe, onBack }) {
   }
 
   function nextCard() {
-    loadCard(deckIdx, allCards)
+    if (allCards.length === 0) { setPhase('won'); return }
+    const [next, ...rest] = allCards
+    loadCard(next, rest)
   }
 
   // ── Render ──
@@ -409,9 +433,9 @@ export default function Game({ token, universe, onBack }) {
           </div>
 
           {/* Play button + waveform */}
-          {phase === 'playing' && (
+          {phase === 'playing' && current && (
             <>
-              <audio ref={audioRef} src={previewUrl} onEnded={() => setIsPlaying(false)} />
+              <audio ref={audioRef} src={current.previewUrl} onEnded={() => setIsPlaying(false)} />
               <div className="row center" style={{ gap: 12 }}>
                 <button
                   className={`pulse-ring ${isPlaying ? 'playing' : ''}`}

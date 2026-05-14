@@ -4,3 +4,4 @@ dist
 *.local
 *.zip
 design_handoff_bangr/
+scripts/*
